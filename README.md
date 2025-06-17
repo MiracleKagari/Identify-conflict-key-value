@@ -9,4 +9,4 @@ One of the auxiliary files attached to Doves group.
 
 Traverse and search for all localized key-value pairs in both the vanilla localsation files and mod files. Identify and output any conflicting key-value along with file dictrionary they are located.
 
-Need to choose /english or /simp_chinese dictionary.
+Needs to choose /english or /simp_chinese dictionary.
